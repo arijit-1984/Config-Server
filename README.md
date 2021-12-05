@@ -1,2 +1,2 @@
-# config-server
-config server details
+# database-script
+Database Details details
